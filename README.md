@@ -20,7 +20,7 @@
 
 ## Video Presentation
 
-[Coming Soon]()
+[Rodney's Presentation](https://www.loom.com/share/1f740a23b9914d70b78d375c32606195)
 
 
 ## Getting Started
