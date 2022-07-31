@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Coming Soon]()
+[Live Demo](https://rodchak.github.io/Capstone-Project-1/)
 
 ## Video Presentation
 
